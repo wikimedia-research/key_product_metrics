@@ -1,5 +1,0 @@
-editing_data_path = "../../Editing-movement-metrics/metrics/metrics.tsv"
-readers_data_path = "../../Readers-movement-metrics/metrics/metrics.tsv"
-unique_devices_data_path = "../../Readers-movement-metrics/metrics/metrics-unique-devices.tsv"
-save_directory = "../../Readers-movement-metrics/charts/"
-author = "Maya Kampurath"
